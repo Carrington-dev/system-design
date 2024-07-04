@@ -24,3 +24,16 @@ With the information provided in first section, propose a high level design whic
 3. Use your technical knowledge to express or share any releavnt information about the design like algorithms, advantages and disadvantages of a particular algorithm or technique
 4. Try to list all the possible algorithms and their pros and cons
 5. Choose the Specific Algorithm
+
+## Dive Deep
+
+1. With the High Level Design in the previous section design a complete system with all the information
+2. Make sure the different components commmunicate
+3. If it's a distributed system state how you would overcome different challenges that come with it
+4. The design should be subjective if asked for a particular system, make sure you address all the specific aspects about the system
+
+## Wrap Up
+
+1. Provide a nice conclusion
+2. State other possible additions you would add to the system
+3. 
