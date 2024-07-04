@@ -56,3 +56,10 @@ This help in enlightening you to develop similar systems that correlates to your
 5. Sockets
 6. Networks
 7. Concurrency
+
+## Time Management
+Time management si very essential
+1. it allows you  to showcase your skills
+2. It allows you to ask important questions
+3. It gives you a good reputaion
+4. 
