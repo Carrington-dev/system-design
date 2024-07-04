@@ -36,4 +36,14 @@ With the information provided in first section, propose a high level design whic
 
 1. Provide a nice conclusion
 2. State other possible additions you would add to the system
-3. 
+
+
+# Notes
+Systems are generally the same, hence always check how all popular systems where designed like 
+1. Amazon Shopping Centre,
+2. PayPal,
+3. Twitter,
+4. Facebook,
+5. URL Shortener, 
+
+This help in enlightening you to develop similar systems that correlates to your knowledge and exposure
