@@ -47,3 +47,12 @@ Systems are generally the same, hence always check how all popular systems where
 5. URL Shortener, 
 
 This help in enlightening you to develop similar systems that correlates to your knowledge and exposure
+
+## Keywords Awareness
+1. Consistency
+2. Tolarance
+3. Distributed
+4. Avalaibility
+5. Sockets
+6. Networks
+7. Concurrency
